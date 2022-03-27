@@ -1,0 +1,5 @@
+srcs/*.c
+!srcs/hexdump.c
+!srcs/get_set.c
+!srcs/print.c
+.DS_Store
