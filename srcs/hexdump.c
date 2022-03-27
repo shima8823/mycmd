@@ -1,4 +1,4 @@
-#include "hexdump.h"
+#include "../includes/hexdump.h"
 //注意: decimal:268435455、hex:fffffffを超えた後のオフセットは未定義
 
 int	main(int argc, char *argv[])
