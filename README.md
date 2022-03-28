@@ -5,9 +5,11 @@ No redirection.
 
 Only -c can be used. 
 
+Use the test directory and *.txt as a test.
+# Notes
 The output is not the same if the file could not be opened.
 
-Use the test directory and *.txt as a test.
+Offset after decimal:268435455, hex:ffffff is undefined.
 # usage 
 ```
 make re
