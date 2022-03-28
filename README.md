@@ -9,7 +9,7 @@ Use the test directory and *.txt as a test.
 # Notes
 The output is not the same if the file could not be opened.
 
-Offset after decimal:268435455, hex:ffffff is undefined.
+Offset after hex:ffffff is undefined.
 # usage 
 ```
 make re
